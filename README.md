@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gerjermun
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science and MLOps
 
 <!---
 gerjermun/gerjermun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
