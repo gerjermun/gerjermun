@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @gerjermun
-- 👀 Experience in Data Science and MLOps
+- 👀 I enjoy developing projects related to Data Science.
+- ❤️ Python.
 
 <!---
 gerjermun/gerjermun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
