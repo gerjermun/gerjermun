@@ -18,13 +18,10 @@ TBD
 
 Outside of the tech world, you'll often find me outdoors, either paddling down rivers or hitting the trails for a run. As an athlete in canoeing and running, I find that these activities not only keep me physically fit but also provide a great opportunity to clear my mind and recharge.
 
-## 📫 Get in Touch
+## 🌟 Let's Connect
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/gerjermun/) if you'd like to connect or collaborate on any projects. I'm always open to new challenges and discussions!
 
-## 🌟 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/gerjermun/)
 
 Thanks for stopping by! Happy coding and exploring! 🚀
 
